@@ -1,4 +1,4 @@
-# Awesome Ubuntu Terminal
+# Awesome Ubuntu Terminal (Under construction)
 The best terminal configuration for Ubuntu
 
 ### Install Dependencies
