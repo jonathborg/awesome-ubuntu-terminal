@@ -11,3 +11,4 @@ Download .deb file and ```sudo dpkg -i xxxx.deb```
 
 ### Install Oh My Zsh
 
+![Oh my Zsh Hyper](link-to-image)
